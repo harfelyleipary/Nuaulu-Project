@@ -1,4 +1,4 @@
-# Nuaulu-Project
+# Nuaulu Project
 -------------------------------------------------------------------------------------------------------
 Nuaulu adalah salah satu suku asli di Pulau Seram, Maluku, Indonesia.
 1. Melakukan <i>remake Website</i> <a href="https://nuaulu.net/">nuaulu.net</a>
